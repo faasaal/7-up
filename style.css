@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+}
+.header{
+    height: 122px;
+    width: 100%;
+    background-color: rgba(45, 148, 45, 0.74);
+    display: flex;
+    border-bottom: whitesmoke;
+    position:fixed;
+    
+
+   
+}
+.logo{
+   height: 100px;
+   width: 73.69;
+   margin-left: 20px;
+   margin-top: 9px;
+}
+.paragraph{
+ color: white;
+ margin-top: 10px;
+ margin: right 10px;
+ 
+
+}
+.contents{
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 220px;
+}
+.paragraph{
+    color: white;
+    margin-top: 15px;
+    margin-left: 20px;
+    text-decoration: none;
+    
+       
+}
+.logo1{
+    height: 25px;
+    width: 25px;
+    margin-left: 8px;
+    
+}
+ 
+
+
+
+    .div1{
+        width:100%;}
+.imago{
+    width: 100%;
+    
+   
+    
+}
+.images-main{
+    width: 100%;
+
+}
+.abc{
+position: absolute;
+color: white;
+margin-left: 150px;
+margin-top: 240px;
+font-size: xxx-large;
+
+
+}
+.bc{
+    position: absolute;
+color: white;
+margin-left: 150px;
+margin-top: 400px;
+font-size:x-large;
+}
+.images{
+    width: 100%;
+}
+.bc{
+    position: absolute;
+    color: white;
+    margin-left: 149px;
+    margin-top: 400px;
+}
+.rec{
+     position: absolute;
+     margin-left:600px;
+     margin-top: 280px;
+     font-size: xx-large;
+     color: rgba(255, 255, 255, 0.979);
+}
+.sh{
+    position: absolute;
+    margin-left:490px;
+    margin-top: 330px;
+    font-size: large;
+    color: white;
+}
+.pi{
+    position: absolute;
+    margin-left:601px;
+    margin-top: 370px;
+    font-size: x-large;
+    color: white;
+}
+.pic{
+    width: 100%;
+}
+.sto{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 270px;
+    font-size: xx-large;
+    color: white;
+    
+}
+.fi{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 330px;
+    font-size: large;
+    color: white;
+}
+.vi{
+    position: absolute;
+    margin-left: 590px;
+    margin-top: 390px;
+    font-size: large;
+    color: white;
+}
+.footer{
+    margin: 0;
+    padding: 50px;
+    background-color: #3c3c3f;
+}
+.ft{
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 20px;
+    font-size: small;
+}
+.up{
+    position: absolute;
+    margin-left: 399px;
+    margin-top: 60px;
+    font-size: small;
+}   
+.footer1{
+
+   margin-left: 35px;
+    
+    color: white;
+
+    text-decoration: none;
+}
+.ter{
+    margin-left: 300px;
+    margin-top: 30px;
+    font-size: small;
+    color: white;
+}
